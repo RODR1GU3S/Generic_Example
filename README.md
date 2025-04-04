@@ -1,18 +1,16 @@
-Claro, Ronaldo! Aqui está um exemplo de `README.md` com uma estrutura clara e profissional, seguindo boas práticas e incluindo os créditos e reconhecimentos que você mencionou:
-
----
-
 ```markdown
 # 🧠 Example Generics em Java
 
-Este projeto demonstra o uso de **Generics** em Java com base em boas práticas de **Clean Code**, princípios **SOLID**, e conceitos de **Programação Orientada a Objetos (POO)**.  
-A aplicação permite ao usuário inserir múltiplos valores do tipo `Integer`, armazená-los em uma estrutura genérica e imprimir esses valores de forma organizada.
+Este projeto demonstra o uso de **Generics** em Java com base em boas práticas de **Clean Code**,
+ princípios **SOLID**, e conceitos de **Programação Orientada a Objetos (POO)**.  
+A aplicação permite ao usuário inserir múltiplos valores do tipo `Integer` OU `String`,
+ armazená-los em uma estrutura genérica e imprimir esses valores de forma organizada.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Leitura de múltiplos valores inteiros via terminal
+- Leitura de múltiplos valores inteiros ou Strings via terminal
 - Armazenamento genérico usando Generics (`<T>`)
 - Impressão formatada dos dados armazenados
 - Exibição do primeiro elemento da lista
